@@ -1,0 +1,115 @@
+BCube Simulation
+Total number of hosts =  64
+Total number of applications =  6
+Minimum Delay: 1.71531e-05 s
+Maximum Delay: 0.000416002 s
+Minimum Throughput: 18.7799 Mbps
+Maximum Throughput: 455.456 Mbps
+Average Delay: 0.000897713 s
+Average Throughput: 78.6331 Mbps
+Average Packetloss rate: 0 %
+
+BCube Simulation
+Total number of hosts =  64
+Total number of applications =  6
+Minimum Delay: 1.71531e-05 s
+Maximum Delay: 0.000440592 s
+Minimum Throughput: 17.7318 Mbps
+Maximum Throughput: 455.456 Mbps
+Average Delay: 0.00100148 s
+Average Throughput: 74.7563 Mbps
+Average Packetloss rate: 0 %
+
+Total number of hosts =  64
+Total number of applications =  64
+Minimum Delay: 1.71531e-05 s
+Maximum Delay: 0.00053357 s
+Minimum Throughput: 14.6419 Mbps
+Maximum Throughput: 455.456 Mbps
+Average Delay: 0.00979571 s
+Average Throughput: 75.8804 Mbps
+Average Packetloss rate: 0 %
+
+BCube Simulation
+Total number of hosts =  64
+Total number of applications =  6
+Minimum Delay: 1.71531e-05 s
+Maximum Delay: 0.000468603 s
+Minimum Throughput: 16.6719 Mbps
+Maximum Throughput: 455.456 Mbps
+Average Delay: 0.000965291 s
+Average Throughput: 74.961 Mbps
+Average Packetloss rate: 0 %
+
+Total number of hosts =  64
+Total number of applications =  64
+Minimum Delay: 1.71531e-05 s
+Maximum Delay: 0.000450985 s
+Minimum Throughput: 17.3232 Mbps
+Maximum Throughput: 455.456 Mbps
+Average Delay: 0.00929733 s
+Average Throughput: 81.7063 Mbps
+Average Packetloss rate: 0 %
+
+BCube Simulation
+Total number of hosts =  64
+Total number of applications =  6
+Minimum Delay: 5.88965e-05 s
+Maximum Delay: 0.000198581 s
+Minimum Throughput: 39.3417 Mbps
+Maximum Throughput: 132.648 Mbps
+Average Delay: 7.43495e-05 s
+Average Throughput: -nan Mbps
+Average Packetloss rate: 0 %
+
+Total number of hosts =  64
+Total number of applications =  64
+Minimum Delay: 0 s
+Maximum Delay: 0 s
+Minimum Throughput: 0 Mbps
+Maximum Throughput: 0 Mbps
+Average Delay: 0 s
+Average Throughput: -nan Mbps
+Average Packetloss rate: 0 %
+
+Total number of hosts =  64
+Total number of applications =  640
+Minimum Delay: 0 s
+Maximum Delay: 0 s
+Minimum Throughput: 0 Mbps
+Maximum Throughput: 0 Mbps
+Average Delay: 0 s
+Average Throughput: -nan Mbps
+Average Packetloss rate: 0 %
+
+BCube Simulation
+Total number of hosts =  64
+Total number of applications =  6
+Minimum Delay: 1.71531e-05 s
+Maximum Delay: 0.000366822 s
+Minimum Throughput: 21.2978 Mbps
+Maximum Throughput: 455.456 Mbps
+Average Delay: 0.000879578 s
+Average Throughput: 82.3834 Mbps
+Average Packetloss rate: 0 %
+
+Total number of hosts =  64
+Total number of applications =  64
+Minimum Delay: 1.71531e-05 s
+Maximum Delay: 0.000495834 s
+Minimum Throughput: 15.7563 Mbps
+Maximum Throughput: 455.456 Mbps
+Average Delay: 0.00949397 s
+Average Throughput: 77.3063 Mbps
+Average Packetloss rate: 0 %
+
+Total number of hosts =  64
+Total number of applications =  640
+Minimum Delay: 1.71531e-05 s
+Maximum Delay: 0.000586293 s
+Minimum Throughput: 13.3252 Mbps
+Maximum Throughput: 455.456 Mbps
+Average Delay: 0.136305 s
+Average Throughput: 50.8482 Mbps
+Average Packetloss rate: 0 %
+
